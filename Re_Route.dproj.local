@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/29 13:05:20.000.951,=C:\Users\russ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/29 13:07:23.000.637,=C:\Users\russ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/12 15:19:00.000.766,=C:\Users\russ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 10:58:17.000.858,=C:\Users\russ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 11:00:24.000.071,C:\Users\russ\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\russ\Documents\Embarcadero\Studio\Projects\PTTCHnSCRATCH\PATCHnSCRATCH.pas</Transaction>
+    <Transaction>2022/10/05 11:00:24.000.071,C:\Users\russ\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\russ\Documents\Embarcadero\Studio\Projects\PTTCHnSCRATCH\PATCHnSCRATCH.dfm</Transaction>
+    <Transaction>2022/10/05 11:03:32.000.413,C:\Users\russ\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\russ\Documents\Embarcadero\Studio\Projects\PTTCHnSCRATCH\Project1.dproj</Transaction>
+    <Transaction>2022/10/30 15:01:13.000.044,F:\DocumentsAlias\RAD Studio\Projects\PatchNscratchFromLittleAcer\Project1.dproj=F:\DocumentsAlias\RAD Studio\Projects\PatchNscratchFromLittleAcer\PS.dproj</Transaction>
+    <Transaction>2022/12/28 17:34:50.000.709,F:\DocumentsAlias\RAD Studio\Projects\PatchNscratchFromLittleAcer\Re_Route.dproj=F:\DocumentsAlias\RAD Studio\Projects\PatchNscratchFromLittleAcer\PS.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
