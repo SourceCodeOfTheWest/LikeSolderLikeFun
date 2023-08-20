@@ -51,7 +51,8 @@ for zooming in & out.
 instead of adding them to my coaster collection.
 
    Please watch  rather jerky tutorial at
-   https://www.brighteon.com/9b4a5293-d6a0-4e86-85a8-078b56a42560 
+   https://www.brighteon.com/c569714f-fb7b-40b7-9bcf-1e0e630a83bd
+
 
    Huge thanks to Mr. Xander Luciano wherever you are, It would have been
 much more difficult to visualize the Gcode and write the app
