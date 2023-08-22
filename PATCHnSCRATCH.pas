@@ -1597,7 +1597,7 @@ if modz_string<>''  then
      begin
 
          patchcodelist.Clear;
-         patch_list.Lines.Add('G00 Z15.0000'); //dummy so it will look like a flatcam file
+       //  patch_list.Lines.Add('G00 Z5.0000'); //dummy so it will look like a flatcam file
          patch_list.Lines.Add('(************************)') ;
          patch_list.Lines.Add('(************************)') ;
          patch_list.Lines.Add('(******re-cut start********)') ;
