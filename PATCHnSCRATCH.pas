@@ -771,7 +771,7 @@ begin
          end;
           speedbutton1.Click;
           Chart1.ZoomPercent(101);   //
-
+         patch_list.Clear;
          for ix:=0 to  rectlist.Count-1 do
          begin
               gcodelist.Lines.Add(rectlist[ix]);

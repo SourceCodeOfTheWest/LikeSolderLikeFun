@@ -2,7 +2,7 @@ object Patch: TPatch
   Left = 0
   Top = 0
   Caption = 'Selective rerouting'
-  ClientHeight = 498
+  ClientHeight = 458
   ClientWidth = 1011
   Color = 12303291
   TransparentColorValue = 4227072
@@ -20,7 +20,7 @@ object Patch: TPatch
   OnShow = FormShow
   DesignSize = (
     1011
-    498)
+    458)
   PixelsPerInch = 96
   TextHeight = 13
   object clickpoint: TLabel
@@ -55,7 +55,7 @@ object Patch: TPatch
     Left = 9
     Top = 27
     Width = 257
-    Height = 283
+    Height = 243
     Anchors = [akLeft, akTop, akBottom]
     Font.Charset = ANSI_CHARSET
     Font.Color = clWindowText
@@ -75,7 +75,7 @@ object Patch: TPatch
     Left = 310
     Top = 30
     Width = 469
-    Height = 410
+    Height = 370
     BackImage.Bottom = 100
     BackImage.Right = 99
     BackImage.Top = 5
@@ -270,7 +270,7 @@ object Patch: TPatch
   end
   object clearlist: TButton
     Left = 8
-    Top = 317
+    Top = 277
     Width = 63
     Height = 20
     Anchors = [akLeft, akBottom]
@@ -286,7 +286,7 @@ object Patch: TPatch
   end
   object CPBcpy: TButton
     Left = 8
-    Top = 334
+    Top = 294
     Width = 87
     Height = 20
     Anchors = [akLeft, akBottom]
@@ -302,7 +302,7 @@ object Patch: TPatch
   end
   object halt: TEdit
     Left = 8
-    Top = 402
+    Top = 362
     Width = 76
     Height = 21
     Anchors = [akLeft, akBottom]
@@ -343,7 +343,7 @@ object Patch: TPatch
   end
   object Panel1: TPanel
     Left = 142
-    Top = 312
+    Top = 272
     Width = 124
     Height = 128
     Anchors = [akLeft, akBottom]
@@ -457,7 +457,7 @@ object Patch: TPatch
   end
   object Jump: TButton
     Left = 8
-    Top = 368
+    Top = 328
     Width = 63
     Height = 35
     Anchors = [akLeft, akBottom]
@@ -474,7 +474,7 @@ object Patch: TPatch
   end
   object ShowMarks: TCheckBox
     Left = 8
-    Top = 423
+    Top = 383
     Width = 85
     Height = 17
     Anchors = [akLeft, akBottom]
@@ -484,7 +484,7 @@ object Patch: TPatch
   end
   object StatusBar1: TStatusBar
     Left = 0
-    Top = 481
+    Top = 441
     Width = 1011
     Height = 17
     Color = clActiveBorder
@@ -499,7 +499,7 @@ object Patch: TPatch
   end
   object Button1: TButton
     Left = 8
-    Top = 352
+    Top = 312
     Width = 89
     Height = 17
     Anchors = [akLeft, akBottom]
@@ -517,7 +517,7 @@ object Patch: TPatch
     Left = 268
     Top = 30
     Width = 36
-    Height = 415
+    Height = 375
     Anchors = [akLeft, akTop, akBottom]
     BevelOuter = bvLowered
     Caption = ' '
@@ -529,7 +529,7 @@ object Patch: TPatch
       Left = 8
       Top = 6
       Width = 20
-      Height = 403
+      Height = 363
       Margins.Left = 7
       Margins.Top = 5
       Margins.Right = 5
@@ -540,14 +540,13 @@ object Patch: TPatch
       PageSize = 0
       TabOrder = 0
       OnChange = cutmodChange
-      ExplicitTop = 5
     end
   end
   object patch_list: TMemo
     Left = 785
     Top = 35
     Width = 226
-    Height = 407
+    Height = 367
     Anchors = [akTop, akRight, akBottom]
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
@@ -630,7 +629,7 @@ object Patch: TPatch
   end
   object Panel4: TPanel
     Left = 4
-    Top = 443
+    Top = 403
     Width = 817
     Height = 38
     Anchors = [akLeft, akBottom]
